@@ -1,8 +1,8 @@
 # Hi! I'm UTWARRIOR99
 
 I'm a teen learning coding and web development.  
-I know **HTML**, **CSS**
-I a'm currently learning **PYTHON** and **javascript**
+I know **HTML**, **CSS**, and I'm currently learning **Python** and **JavaScript**.
+
 ---
 
 ## What I want to do
@@ -14,10 +14,13 @@ I a'm currently learning **PYTHON** and **javascript**
 ---
 
 ## Let's connect!
-I am always and really wanted to work on group projects 
-I can help u in Frontend web development and mental support (u know a fin person in the group)
+
+I'm always looking to join group projects!  
+I can help with **frontend web development** and also be the one bringing good vibes and mental support 😄 (you know, the fun person in the group).
 
 - GitHub: [https://github.com/UTWARRIOR99](https://github.com/UTWARRIOR99)  
 - Email: utwarrior697@gmail.com
+
+---
 
 Thanks for visiting my page!
