@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UTWARRIOR99
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning Python and Jss
-- 💞️ I’m looking to collaborate on any web development project
+- 💞️ I’m looking to collaborate on any web development project or any coding project which includes(html,css,python or jss)
 - 📫 Reach me through my email utwarrior697@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am currently a teenager
