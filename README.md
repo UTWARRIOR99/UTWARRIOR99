@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @UTWARRIOR99
-- 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning Python and Jss
-- 💞️ I’m looking to collaborate on any web development project or any coding project which includes(html,css,python or jss)
-- 📫 Reach me through my email utwarrior697@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am currently a teenager
+# Hi! I'm UTWARRIOR99
 
-<!---
-UTWARRIOR99/UTWARRIOR99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a teen learning coding and web development.  
+I know **HTML**, **CSS**
+I a'm currently learning **PYTHON** and **javascript**
+---
+
+## What I want to do
+
+- Learn more about making websites and apps  
+- Work on group projects with other learners  
+- Maybe make some money from coding someday!
+
+---
+
+## Let's connect!
+I am always and really wanted to work on group projects 
+I can help u in Frontend web development and mental support (u know a fin person in the group)
+
+- GitHub: [https://github.com/UTWARRIOR99](https://github.com/UTWARRIOR99)  
+- Email: utwarrior697@gmail.com
+
+Thanks for visiting my page!
