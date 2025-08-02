@@ -1,26 +1,32 @@
-# Hi! I'm UTWARRIOR99
+# Hi! I'm UTWARRIOR99 👋
 
-I'm a teen learning coding and web development(CS major in garde 12th).  
+I'm a teen learning coding and web development (CS major in Grade 12).  
 I know **HTML**, **CSS**, and I'm currently learning **Python**.
 
 ---
 
-## What I want to do
+## 🚀 Goals
 
-- Learn more about making websites and apps  
-- Work on group projects with other learners  
-- Maybe make some money by coding fro myself.
-
----
-
-## Let's connect!
-
-I'm always looking to join group projects!  
-I can help with **frontend web development** and also be the one bringing good vibes and moral support 😄 (you know, the fun person in the group).
-
-- GitHub: [https://github.com/UTWARRIOR99](https://github.com/UTWARRIOR99)  
-- Email: utwarrior697@gmail.com
+- Learn more about building websites and apps  
+- Collaborate on group projects with other devs  
+- Earn through freelance or self-built products 💸  
 
 ---
 
-Thanks for visiting my page!
+## 🧠 What I Bring
+
+I can help with **frontend web development**, contribute code, test ideas, and keep the team's energy high.  
+I’m the kind of person who keeps the group laughing while shipping features 😄
+
+---
+
+## 📬 Let’s Connect
+
+- GitHub: [UTWARRIOR99](https://github.com/UTWARRIOR99)  
+- Email: [utwarrior697@gmail.com](mailto:utwarrior697@gmail.com)
+
+---
+
+Thanks for visiting my profile!  
+Let’s build something cool together 🤝
+
